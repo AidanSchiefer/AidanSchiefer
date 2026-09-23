@@ -1,4 +1,4 @@
 ## Hi there 👋
 
-[![My Top Languages](https://vercel.app)](https://github.com/anuragharza/github-readme-stats)
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=AidanSchiefer)](https://github.com/stats-organization/github-stats-extended)
 
